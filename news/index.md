@@ -1,5 +1,5 @@
 ---
-title: 新闻
+title: 开源
 nav:
   order: 5
   tooltip: 战队最新动态
