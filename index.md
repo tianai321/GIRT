@@ -10,7 +10,7 @@
   type="docs"
   text="Bilibili"
   icon="fa-brands fa-bilibili"
-  link="https://space.bilibili.com/475402455"
+  link="https://space.bilibili.com/337318265?spm_id_from=333.1387.follow.user_card.click"
 %}
 {%
   include button.html
@@ -23,7 +23,7 @@
   type="docs"
   text="微信公众号"
   icon="fa-brands fa-weixin"
-  link="https://mp.weixin.qq.com/s/Zrk4PRRGSimJG9bVDj3Zsg"
+  link="https://mp.weixin.qq.com/s/y8DGvpIOlJLTm5B4L2qsig"
 %}
 {% include section.html %}
 
