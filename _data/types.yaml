@@ -114,6 +114,13 @@ youtube:
   tooltip: YouTube
   link: https://youtube.com/$VALUE
 
+dy:
+  icon: fa-brands fa-tiktok
+  text: 抖音
+  tooltip: Douyin
+  link: https://github.com/tianai321/GIRT/tree/main/images/dy.png
+
+
 linkedin:
   icon: fa-brands fa-linkedin
   text: LinkedIn
