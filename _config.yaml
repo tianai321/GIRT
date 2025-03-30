@@ -2,9 +2,9 @@
 title: GIRT战队
 subtitle: 
 description: 破茧而出，志在千里
-header: images/background.jpg
+header: images/fengmian.jpg
 header-video: images/bgvideo.mp4
-footer: images/background.jpg
+footer: images/fengmian.jpg
 proofer: false
 slogan: 破茧而出，志在千里
 # site social media and other links
@@ -15,7 +15,7 @@ links:
   wechat: https://mp.weixin.qq.com/s/y8DGvpIOlJLTm5B4L2qsig
 ## jekyll settings
 
-# front matter defaults士大夫士大夫士大夫士大夫士大夫胜多负少
+# front matter defaults
 defaults:
   # all markdown files
   - scope:
