@@ -32,19 +32,15 @@
 {% capture text %}
 
 <ul>
-  <li>·RoboMaster2022机甲大师超级对抗赛·南部区域赛 殿军、一等奖</li>
   <li>·RoboMaster2022机甲大师超级对抗赛·全国赛 一等奖</li>
   <li>·RoboMaster2022机甲大师高校单项赛步兵竞速与智能射击单项赛·南部区域赛 一等奖</li>
   <li>·RoboMaster2023机甲大师超级对抗赛·全国赛 二等奖</li>
-  <li>·RoboMaster2023机甲大师超级对抗赛·中部区域赛 16强、一等奖</li>
-  <li>·RoboMaster2023机甲大师高校联盟赛（西南站）步兵对抗赛 一等奖</li>
-  <li>·RoboMaster2023机甲大师高校联盟赛（西南站）3V3对抗赛 一等奖</li>
+  <li>·RoboMaster2023机甲大师超级对抗赛·中部区域赛 16强、一等奖</li>>
   <li>·RoboMaster2023机甲大师高校联盟赛（西南站）3V3对抗赛 一等奖</li>
   <li>·RoboMaster2023机甲大师机器人实战奖 二等奖3项、三等奖2项</li>
   <li>·RoboMaster2024机甲大师超级对抗赛·全国赛 二等奖</li>
   <li>·RoboMaster2024机甲大师超级对抗赛·区域赛 一等奖</li>
   <li>·RoboMaster2024机甲大师高校联盟赛（湖北站）3V3对抗赛 一等奖</li>
-  <li>·RoboMaster2024机甲大师高校联盟赛（湖北站）步兵对抗赛 二等奖</li>
   <li>·RoboMaster2024机甲大师机器人实战奖 一等奖3项、二等奖1项</li>
 </ul>
 {%
