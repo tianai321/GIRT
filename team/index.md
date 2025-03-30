@@ -40,7 +40,7 @@ nav:
 
 {% include list_portrait.html data="members" component="portrait" filters="echelon: 24" style="tiny" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/womende.jpg" dark=true %}
 
 从狼牙走出的优秀人才，他们在各自领域取得了优异的成绩，是狼牙战队的骄傲和榜样。
 

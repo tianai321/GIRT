@@ -39,7 +39,7 @@ title: 成员
 
 
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/womende.jpg" dark=true %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis

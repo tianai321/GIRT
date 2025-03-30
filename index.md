@@ -79,7 +79,7 @@
 
 {%
   include feature.html
-  image="images/cooporate.jpeg"
+  image="images/cat.jpg"
   link="projects"
   title="我们的项目"
   flip=true
@@ -106,7 +106,7 @@
 
 {%
   include feature.html
-  image="images/background.jpg"
+  image="images/womende.jpg"
   link="team"
   title="我们的成员"
   text=text
