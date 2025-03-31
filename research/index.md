@@ -51,7 +51,7 @@ option = {
             
         },
         formatter: function (params) {
-            var info = ["国家级二等奖", "分区赛十六强","分区赛八强，全国赛线上评选，国家级一等奖","分区赛十六强，全国赛四十六强，国家级二等奖","分区赛殿军，全国赛二十八强，国家级二等奖"];
+            var info = ["首次参赛", "对抗赛邀请赛","分区赛殿军，全国赛一等奖","分区赛十六强，全国赛二等奖","分区赛亚军，全国赛二等奖"];
             var dataIndex = params[0].dataIndex; // 获取数据点的索引
             return params[0].axisValue + info[dataIndex]+'<br> 排名：' + params[0].value; // 自定义提示框内容，这里显示额外信息
         }
@@ -77,7 +77,7 @@ option = {
   },
   series: [
     {
-      data: [23,33,26,38,25],
+      data: [122,113,53,42,20],
       type: 'line'
     }
   ]
@@ -93,10 +93,10 @@ option && myChart.setOption(option);
 <div class="card-text">
 <div class="card-title">RoboMaster 2024</div>
 
-小组生死赛，两发飞镖，大符加成，推爆基地。
+2024分区赛晋级全国赛
 </div>
 <div class="card-image">
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1954808056&bvid=BV1dy411h7D7&cid=1556478508&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" mute="true"></iframe>
+<iframe src="//player.bilibili.com/video/BV1wU411o7f5/?share_source=copy_web&vd_source=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" mute="true"></iframe>
 </div>
 </div>
 
