@@ -93,7 +93,7 @@ option && myChart.setOption(option);
 <div class="card-text">
 <div class="card-title">RoboMaster 2024</div>
 
-2024分区赛晋级全国赛
+2024分区赛晋级全国赛                                
 </div>
 <div class="card-image">
 <iframe src="//player.bilibili.com/player.html?bvid=BV1wU411o7f5&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" mute="true"></iframe>
