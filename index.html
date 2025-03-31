@@ -509,7 +509,7 @@
 
 <div class="feature">
   <a href="/GIRT/research" class="feature-image" aria-label="我们的成果">
-    <img src="/GIRT/images/cheer.jpg" loading="lazy" alt="我们的成果" style="object-fit: contain;" onerror="this.src = '/GIRT/images/fallback.svg'; this.onerror = null;">
+    <img src="/GIRT/images/123.jpg" loading="lazy" alt="我们的成果" style="object-fit: contain;" onerror="this.src = '/GIRT/images/fallback.svg'; this.onerror = null;">
   </a>
   <div class="feature-text">
     
@@ -528,15 +528,14 @@
   <li>·RoboMaster2024机甲大师高校联盟赛（湖北站）3V3对抗赛 一等奖</li>
   <li>·RoboMaster2024机甲大师机器人实战奖 一等奖3项、二等奖1项</li>
 </ul>
-
-<div class="button-wrapper">
-    <a class="button" href="/GIRT/research" data-style="bare" data-flip="" aria-label="fa-solid fa-arrow-right">
-      <i class="icon fa-solid fa-arrow-right"></i>
-      
-        <span>我们的更多成果</span>
-      
-    </a>
-  </div>
+<p>{ %
+  include button.html
+  link=”research”
+  text=”我们的更多成果”
+  icon=”fa-solid fa-arrow-right”
+  flip=true
+  style=”bare”
+%}</p>
 
 
   </div>
