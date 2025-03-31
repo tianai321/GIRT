@@ -51,7 +51,7 @@ option = {
             
         },
         formatter: function (params) {
-            var info = ["首次参赛", "对抗赛邀请赛","分区赛殿军，全国赛一等奖","分区赛十六强，全国赛二等奖","分区赛亚军，全国赛二等奖"];
+            var info = ["首次参赛", "对抗赛邀请赛季军","分区赛殿军，全国赛一等奖","分区赛十六强，复活赛六强","分区赛亚军，全国赛十八强，全国赛二等奖"];
             var dataIndex = params[0].dataIndex; // 获取数据点的索引
             return params[0].axisValue + info[dataIndex]+'<br> 排名：' + params[0].value; // 自定义提示框内容，这里显示额外信息
         }
