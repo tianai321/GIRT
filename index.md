@@ -43,7 +43,7 @@
   <li>·RoboMaster2024机甲大师高校联盟赛（湖北站）3V3对抗赛 一等奖</li>
   <li>·RoboMaster2024机甲大师机器人实战奖 一等奖3项、二等奖1项</li>
 </ul>
-{%
+{ %
   include button.html
   link="research"
   text="我们的更多成果"
@@ -56,7 +56,7 @@
 
 {%
   include feature.html
-  image="images/cheer.jpg"
+  image="images/123.jpg"
   link="research"
   title="我们的成果"
   text=text
