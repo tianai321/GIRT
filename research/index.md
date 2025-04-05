@@ -90,7 +90,7 @@ option && myChart.setOption(option);
 
 ## 高光时刻
 <div class="card">
-<div class="card-text">
+<div class="card-text"> 
 <div class="card-title">RoboMaster 2024</div>
 
 2024分区赛晋级全国赛                                
@@ -104,7 +104,7 @@ option && myChart.setOption(option);
 <div class="card-text">
 <div class="card-title">RoboMaster 2024</div>
 
-十六进八，国赛名额关键争夺战，顽强拼搏，三分钟推爆基地。
+国赛名额关键争夺战
 </div>
 <div class="card-image">
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1405028929&bvid=BV1sr421L7yP&cid=1557709783&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" mute="true"></iframe>
@@ -137,7 +137,7 @@ option && myChart.setOption(option);
 
 {% assign awards_count =  national_awards_count | plus: international_awards_count | plus: provincial_awards_count | plus: other_awards_count %}
 
-根据不完全统计，狼牙战队已经获得了总计 {{awards_count}} 项奖项。
+根据不完全统计，GIRT战队已经获得了总计 {{awards_count}} 项奖项。
 <table>
 <tr>
   <td>国家级奖项</td>
@@ -170,7 +170,7 @@ option && myChart.setOption(option);
 
 
 {% include section.html %}
-
+ 11 
 ## 大创项目
 
 {% include search-box.html %}
