@@ -46,7 +46,7 @@ PID&ADRC实现云台精准控制。
 
 {%
   include feature.html
-  image="images/projects/rm/2.png"
+  image="images/projects/rm/3-1.png"
   link="projects"
   title="步兵机器人"
   flip=true
@@ -65,7 +65,7 @@ PID&ADRC实现云台精准控制。
 
 {%
   include feature.html
-  image="images/projects/rm/3.png"
+  image="images/projects/rm/7-1.png"
   link="projects"
   title="哨兵机器人"
   flip=false
@@ -85,7 +85,7 @@ PID&ADRC实现云台精准控制。
 
 {%
   include feature.html
-  image="images/projects/rm/4.png"
+  image="images/projects/rm/2_1.png"
   link="projects"
   title="工程机器人"
   flip=true
@@ -105,7 +105,7 @@ Gidance视觉定位稳定悬停，非线性预测，飞控通道映射，助力�
 
 {%
   include feature.html
-  image="images/projects/rm/5.png"
+  image="images/projects/rm/fei.png"
   link="projects"
   title="空中机器人"
   flip=false
@@ -122,7 +122,7 @@ Gidance视觉定位稳定悬停，非线性预测，飞控通道映射，助力�
 
 {%
   include feature.html
-  image="images/projects/rm/6.png"
+  image="images/projects/rm/8-1.png"
   link="projects"
   title="飞镖机器人"
   flip=true
@@ -138,7 +138,7 @@ Gidance视觉定位稳定悬停，非线性预测，飞控通道映射，助力�
 
 {%
   include feature.html
-  image="images/projects/rm/7.png"
+  image="images/projects/rm/lv.png"
   link="projects"
   title="雷达机器人"
   flip=false
