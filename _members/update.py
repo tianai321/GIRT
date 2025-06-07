@@ -3,8 +3,8 @@ import pandas as pd
 import yaml
 
 # CSV 文件路径
-CSV_FILE = "/Users/micdz/Projects/langya_website/_members/members.csv"  # 你的表格文件
-MARKDOWN_FOLDER = "/Users/micdz/Projects/langya_website/_members"  # Markdown 文件所在文件夹
+CSV_FILE = "F:/GIRT/GIRT/_members/members.csv"  # 你的表格文件
+MARKDOWN_FOLDER = "F:/GIRT/GIRT/_members"  # Markdown 文件所在文件夹
 
 def load_csv(file_path):
     return pd.read_csv(file_path)

@@ -7,25 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}联系我们
 
-狼牙战队欢迎所有热爱机器人的同学加入！
+GIRT战队欢迎所有热爱机器人的同学加入！
 
-湖北省武汉市洪山区珞喻路 1037 号
-华中科技大学智能互联网湖北省重点实验室
+桂林市临桂区岩图路 9 号
+桂林信息科技学院GIRT机器人实验室
 
 {%
   include button.html
   type="email"
-  text="hustrobomaster@163.com"
-  link="hustrobomaster@163.com"
+  text="girt_rm@163.com"
+  link="girt_rm@163.com"
 %}
 
 {%
   include button.html
   type="address"
   tooltip="我们实验室的地址"
-  link="https://surl.amap.com/1vpaONXCHaR5"
+  link="https://www.amap.com/place/B0J0BUVISN"
 %}
 
 {% include section.html %}
 
-企业赞助或合作事务洽谈，请联系微信：bao1037rm。
+企业赞助或合作事务洽谈，请联系微信：************。
