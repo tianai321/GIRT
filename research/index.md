@@ -116,7 +116,7 @@ option && myChart.setOption(option);
 
 
 
-## 荣誉奖项
+<!-- ## 荣誉奖项
 {% include search-box.html %}
 {% include search-info.html %}
 {% assign national_awards_count = 0 %}
@@ -191,4 +191,4 @@ option && myChart.setOption(option);
 
 {% include list.html data="patents" component="patents" style="simple" %}
 
-{% include section.html %}
+{% include section.html %} -->
